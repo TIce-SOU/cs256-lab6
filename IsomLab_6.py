@@ -1,0 +1,1 @@
+#Anthony Isom, Lab 6, creating a algorithm that will "processes a student's course history—represented as a tuple of raw, unformatted text strings—and sorts their completed courses into designated General Education (Gen Ed) category bins."
