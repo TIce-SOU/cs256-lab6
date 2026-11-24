@@ -159,6 +159,7 @@ def main():
         "    ES-327, Energy and Climate Change, 4, Incompleted    ", #Communication and Expression, incompleted
         " BA-450, Using GIS in Buisness, 4, completed ", #Communication and Expression
         " ES-494, Env. Science/Policy Capstone 1, 4, completed ", #Class thats uncategorized, not in the Gen Ed mapping
+        " GSWS-300, Gender and Sexuality in the Workplace, 4, incompleted " #Inquiry and Analysis, another incomplete to make sure
     )
 
 
